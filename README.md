@@ -1,5 +1,4 @@
 # 🏨 Hotel Reservation Dashboard
----
 
 ## 📊 Project Overview
 
