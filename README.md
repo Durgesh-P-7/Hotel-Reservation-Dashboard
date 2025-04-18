@@ -1,13 +1,5 @@
 # 🏨 Hotel Reservation Dashboard
 
-![Hotel Reservation Dashboard - Revenue](/Dashboard_1.png)
-*Revenue View*
-
-![Hotel Reservation Dashboard - Bookings](/Dashboard_2.png)
-*Bookings View*
-
----
-
 ## 📊 Project Overview
 
 This interactive **Power BI Dashboard** provides a detailed view of hotel reservation performance from both **Revenue** and **Booking** perspectives. The goal is to help stakeholders identify opportunities to reduce revenue leakage, improve booking conversions, and understand seasonal or channel-based trends.
@@ -53,7 +45,7 @@ This interactive **Power BI Dashboard** provides a detailed view of hotel reserv
 
 | Revenue Dashboard | Booking Dashboard |
 |-------------------|-------------------|
-| ![Revenue View](images/revenue-dashboard.png) | ![Bookings View](images/booking-dashboard.png) |
+| ![Revenue View](/Dashboard_1.png) | ![Bookings View](/Dashboard_2.png) |
 
 *(Make sure to add your actual image files in a folder named `images` or host them and paste the links above)*
 
