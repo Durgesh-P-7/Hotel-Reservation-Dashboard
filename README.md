@@ -38,7 +38,7 @@ This interactive **Power BI Dashboard** provides a detailed view of hotel reserv
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
 - Interactive visuals: Maps, Stacked Bars, Heatmaps
-- Drill-down filters, Slicers, Toggle cards
+- Drill- Slicers, Toggle cards
 
 ---
 
