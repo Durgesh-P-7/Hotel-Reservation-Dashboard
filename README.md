@@ -1,4 +1,5 @@
 # 🏨 Hotel Reservation Dashboard
+---
 
 ## 📊 Project Overview
 
@@ -43,10 +44,10 @@ This interactive **Power BI Dashboard** provides a detailed view of hotel reserv
 
 ## 📂 Screenshots
 
-### Revenue Dashboard 
+### Revenue View 
 ![Revenue View](/Dashboard_1.png) 
 
-### Booking Dashboard 
+### Booking View 
  ![Bookings View](/Dashboard_2.png) 
 
 ---
