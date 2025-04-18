@@ -43,13 +43,11 @@ This interactive **Power BI Dashboard** provides a detailed view of hotel reserv
 
 ## 📂 Screenshots
 
-| Revenue Dashboard | Booking Dashboard |
-|-------------------|-------------------|
-| ![Revenue View](/Dashboard_1.png) | ![Bookings View](/Dashboard_2.png) |
+### Revenue Dashboard 
+![Revenue View](/Dashboard_1.png) 
 
-*(Make sure to add your actual image files in a folder named `images` or host them and paste the links above)*
+### Booking Dashboard 
+ ![Bookings View](/Dashboard_2.png) 
 
 ---
-
-## 📁 Project Folder Structure
 
